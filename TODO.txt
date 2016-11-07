@@ -1,0 +1,10 @@
+Plantage en cas de déconnexion du GPS
+Plantage sur Val_COG = int(float(MyGPS.GPRMC['COG'])), erreur de parsing?
+	ValueError: invalid literal for float(): 0.0$GPGGA
+Moyennage des degrés autour de 360/0 erronés
+Supprimer les "global" et créer des self
+Les éléments d'un canvas doivent-ils être supprimés pour ne pas saturer l'affichage?
+Mettre GraphVitesse dans la classe
+Ajouter les clics dans la classe Display
+Les valeurs de pression doivent être enregistrées dans un fichier pour l'historique
+1 seule fonction de Graphe à réaliser
